@@ -348,8 +348,12 @@ h3.article-title a {
 }
 
 .article-banner {
-    width: 100%;
+    width: 20%;
     height: auto;
+}
+
+.article-style p {
+  padding-top: 20px;
 }
 
 .article-style img,
